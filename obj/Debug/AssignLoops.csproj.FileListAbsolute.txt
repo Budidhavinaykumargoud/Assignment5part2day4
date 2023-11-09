@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignLoops\AssignLoops\bin\Debug\AssignLoops.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignLoops\AssignLoops\bin\Debug\AssignLoops.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignLoops\AssignLoops\bin\Debug\AssignLoops.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignLoops\AssignLoops\obj\Debug\AssignLoops.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignLoops\AssignLoops\obj\Debug\AssignLoops.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignLoops\AssignLoops\obj\Debug\AssignLoops.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignLoops\AssignLoops\obj\Debug\AssignLoops.pdb
